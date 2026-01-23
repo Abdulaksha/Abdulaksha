@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulaksha&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalb" /> </p>
 
-<p align="left"> <a href="https://github.com/eshaalb/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulaksha" alt="eshaalb" /></a> </p>
+<p align="left"> <a href="https://github.com/abdulaksha/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulaksha" alt="eshaalb" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/abdulaksha" target="blank"><img src="https://img.shields.io/twitter/follow/abdulaksha?logo=twitter&style=for-the-badge" alt="eshaaldev" /></a> </p>
 

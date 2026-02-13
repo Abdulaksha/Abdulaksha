@@ -10,7 +10,7 @@
     <a href="https://github.com/Abdulaksha">
       <img src="https://komarev.com/ghpvc/?username=abdulaksha&label=Profile%20Views&color=0e75b6&style=flat-square" alt="abdulaksha" />
     </a>
-    <a href="https://twitter.com/abdulaksha" target="_blank">
+    <a href="https://instagram.com/abdulaksha_.3" target="_blank">
       <img src="https://img.shields.io/twitter/follow/abdulaksha?logo=twitter&style=flat-square&color=00d2ff&labelColor=0f172a" alt="twitter" />
     </a>
   </p>

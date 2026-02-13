@@ -11,7 +11,7 @@
       <img src="https://komarev.com/ghpvc/?username=abdulaksha&label=Profile%20Views&color=0e75b6&style=flat-square" alt="abdulaksha" />
     </a>
     <a href="https://instagram.com/abdulaksha_.3" target="_blank">
-      <img src="https://img.shields.io/twitter/follow/abdulaksha?logo=twitter&style=flat-square&color=00d2ff&labelColor=0f172a" alt="twitter" />
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="instagram" />
     </a>
   </p>
 </div>
@@ -82,14 +82,22 @@ With a **cool head for debugging** ⚡ and a heart for innovation, I am constant
 ### 🤝 Connect With Me
 
 <p align="center">
-<a href="https://facebook.com/abdul.rahman.964996" target="blank"><img align="center" src="https://raw.githubusercontent.com/abdulaksha/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulaksha" height="30" width="40" /></a>
-<a href="https://instagram.com/abdulaksha_.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/abdulaksha/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulaksha" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul-rahman-49660a238" target="blank"><img align="center" src="https://raw.githubusercontent.com/abdulaksha/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulaksha" height="30" width="40" /></a>
+  <a href="https://facebook.com/abdul.rahman.964996" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/abdulaksha_.3" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/abdul-rahman-49660a238" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:abdulrahman21504@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
+<br />
 
-![Snake animation](https://github.com/abdulaksha/abdulaksha/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
+<div align="center">
+  <img src="https://github.com/abdulaksha/abdulaksha/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>

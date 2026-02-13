@@ -82,9 +82,9 @@ With a **cool head for debugging** ⚡ and a heart for innovation, I am constant
 ### 🤝 Connect With Me
 
 <p align="center">
-<a href="https://twitter.com/abdulaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/abdulaksha/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulaksha" height="30" width="40" /></a>
+<a href="https://facebook.com/abdul.rahman.964996" target="blank"><img align="center" src="https://raw.githubusercontent.com/abdulaksha/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulaksha" height="30" width="40" /></a>
 <a href="https://instagram.com/abdulaksha_.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/abdulaksha/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulaksha" height="30" width="40" /></a>
-<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/abdulaksha/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulaksha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul-rahman-49660a238" target="blank"><img align="center" src="https://raw.githubusercontent.com/abdulaksha/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdulaksha" height="30" width="40" /></a>
 </p>
 
 

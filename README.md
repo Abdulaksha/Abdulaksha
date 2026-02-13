@@ -88,7 +88,7 @@ With a **cool head for debugging** ⚡ and a heart for innovation, I am constant
 </p>
 
 
-![Snake animation](https://github.com/abdulaksha/abdulaksha/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/abdulaksha/abdulaksha/blob/output/github-contribution-grid-Create snake.svg)
 
 
 

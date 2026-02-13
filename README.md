@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahman</h1>
 <h3 align="center">A problem solving Full Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulaksha&label=Profile%20views&color=0e75b6&style=flat" alt="eshaalb" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulaksha&label=Profile%20views&color=0e75b6&style=flat" alt="abdulaksha" /> </p>
 
 <p align="left"> <a href="https://github.com/Abdulaksha/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulaksha" alt="abdulaksha" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/abdulaksha" target="blank"><img src="https://img.shields.io/twitter/follow/abdulaksha?logo=twitter&style=for-the-badge" alt="eshaaldev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/abdulaksha" target="blank"><img src="https://img.shields.io/twitter/follow/abdulaksha?logo=twitter&style=for-the-badge" alt="abdulaksha" /></a> </p>
 
 - 🔭 I’m currently working on **my page**
 
@@ -19,9 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abdulaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/abdulaksha/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eshaaldev" height="30" width="40" /></a>
-<a href="https://fb.com/abdulaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/abdulaksha/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eshaaldev" height="30" width="40" ></a>
-<a href="https://instagram.com/abdulaksha_.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/abdulaksha/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eshaaldev" height="30" width="40" /></a>
+<a href="https://twitter.com/abdulaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/abdulaksha/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdulaksha" height="30" width="40" /></a>
+<a href="https://fb.com/abdulaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/abdulaksha/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulaksha" height="30" width="40" ></a>
+<a href="https://instagram.com/abdulaksha_.3" target="blank"><img align="center" src="https://raw.githubusercontent.com/abdulaksha/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdulaksha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -29,7 +29,6 @@ With a **cool head for debugging** ⚡ and a heart for innovation, I am constant
 - 💬 Ask me about **React, TypeScript, Node.js, and System Architecture**.
 - 📫 Reach me at: **abdulrahman21504@gmail.com**
 
----
 
 ### 🛠️ Tech Stack & Tools
 

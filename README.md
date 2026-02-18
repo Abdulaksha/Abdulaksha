@@ -77,6 +77,14 @@ With a **cool head for debugging** ⚡ and a heart for innovation, I am constant
   </a>
 </div>
 
+### Random Dev Quote-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+    <div align="center">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadomle&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<!-- ════════════ © ADITYA DOMLE ════════════ -->
+
+
 ---
 
 ### 🤝 Connect With Me

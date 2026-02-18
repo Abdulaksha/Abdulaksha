@@ -63,11 +63,6 @@ With a **cool head for debugging** ⚡ and a heart for innovation, I am constant
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abdulaksha&theme=gitdimmed&no-frame=true&column=7" alt="abdulaksha trophies" />
-  </a>
-</div>
 
 ### Random Dev Quote-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>

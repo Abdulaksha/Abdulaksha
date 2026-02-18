@@ -1,7 +1,7 @@
 <div align="center">
  
   <!-- TYPING EFFECT HEADER -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=300&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Abdul+Rahman;Full+Stack+Developer;IT+SPECIALIST+(SOFTWARE&NETWORKING)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%911%8B;I'm+Abdul+Rahman;Full+Stack+Developer;IT+SPECIALIST+(SOFTWARE&NETWORKING)" alt="Typing SVG" />
 
 
   <!-- INTRO TEXT -->

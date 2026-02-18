@@ -3,6 +3,14 @@
   <!-- TYPING EFFECT HEADER -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00D2FF&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Abdul+Rahman;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
 
+<!-- 💡 Typing Animation Banner -->
+<!-- ============================== -->
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=Dc143c&center=true&multiline=true&repeat=false&width=700&height=117&lines=Hi%2C+I'm+Abdul!;A+Self+Taught+Software+Developer&+IT Specialist;Based+in+india%2C+Maharashtra+Area" alt="Typing SVG"/>
+    </a>
+</div>
+
   <!-- INTRO TEXT -->
   <h3>🚀 Building scalable solutions for the modern web</h3>
   

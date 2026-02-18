@@ -25,7 +25,7 @@ I am a passionate **Full Stack Developer** based in **India**, dedicated to craf
 With a **cool head for debugging** ⚡ and a heart for innovation, I am constantly exploring new technologies like **.NET** and **Modern React** patterns to build better digital experiences.
 
 - 🔭 I’m currently working as **IT Tech Specalist(software & Networking)- UAE**.
-- 🌱 I’m currently expanding my skills in **AI & NETWORKING**.
+- 🌱 I’m currently expanding my skills in **NETWORKING & INFRASTRUCRE MANAGEMENTS USING AI**.
 - 💬 Ask me about **React, TypeScript, Node.js, and System Architecture**.
 - 📫 Reach me at: **abdulrahman21504@gmail.com**
 
